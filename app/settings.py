@@ -88,7 +88,7 @@ PROJECT_APPS = [
 
 THIRD_PARTY_APPS = [
     "corsheaders",
-    "django_cleanup.apps.CleanupConfig",
+    # "django_cleanup.apps.CleanupConfig",
     "rest_framework",
 ]
 
